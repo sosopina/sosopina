@@ -1,14 +1,13 @@
-# Hi 👋, I'm Oussama Zaim
+# Hi I'm sosopina
 
 <h3 align="left">Embedded Systems Engineer & Edge AI Enthusiast</h3>
 
 <br />
 
-- 🚀 Passionate about **Embedded Systems** and **Edge AI**
-- 📌 Currently working on **Visual Inertial Odometry (VIO)** projects
-- 📘 Learning about **Computer Vision** and **Mapping Localization**
-- 💬 Ask me about **Embedded Systems**, **Edge AI**, **Computer Vision**, and **Robotics**
-- 📧 How to reach me: **oussama.zaim.main@gmail.com**
+- Passionate about **Embedded Systems** and **Edge AI**
+- Currently working on **Visual Inertial Odometry (VIO)** projects
+- Learning about **Computer Vision** and **Mapping Localization**
+- Reach me: **oussama.zaim.main@gmail.com**
 
 <br />
 
