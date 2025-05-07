@@ -4,7 +4,7 @@
 
 <br />
 
-- Passionate about **Embedded Systems** and **Edge AI**
+- Passionate about **Embedded Systems** and **Edge AI** and **Robotics**
 - Currently working on **Visual Inertial Odometry (VIO)** projects
 - Learning about **Computer Vision** and **Mapping Localization** and **ROS2**
 - Reach me: **oussama.zaim.main@gmail.com**
