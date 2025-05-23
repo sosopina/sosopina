@@ -61,5 +61,3 @@
 <img src="https://komarev.com/ghpvc/?username=sosopina&label=Profile%20Views&color=8800dd&style=flat" alt="sosopina" />
 </p>
 
----
-⭐️ From [sosopina](https://github.com/sosopina)
